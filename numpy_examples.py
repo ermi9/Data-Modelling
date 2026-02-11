@@ -1,6 +1,6 @@
 """
 Runnable examples for NumPy exam methods.
-Run: python numpy_exam_methods_examples.py
+Run: python numpy_examples.py
 
 This script creates small sample files (CSV/NPZ) locally.
 """
