@@ -1,6 +1,6 @@
 """
 Runnable examples for SciPy exam methods (by submodule).
-Run: python scipy_exam_methods_examples.py
+Run: python scipy_examples.py
 
 Notes:
 - SciPy must be installed.
