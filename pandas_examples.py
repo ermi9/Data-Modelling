@@ -1,6 +1,6 @@
 """
 Runnable examples for Pandas exam methods.
-Run: python pandas_exam_methods_examples.py
+Run: python pandas_examples.py
 
 This script creates a small sample CSV file locally.
 """
