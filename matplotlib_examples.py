@@ -1,6 +1,6 @@
 """
 Runnable examples for Matplotlib exam methods.
-Run: python matplotlib_exam_methods_examples.py
+Run: python matplotlib_examples.py
 
 This script will open multiple plot windows (one per section).
 Close a window to continue to the next.
