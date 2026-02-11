@@ -1,6 +1,6 @@
 """
 Runnable examples for the exam methods.
-Run: python exam_methods_examples.py
+Run: python_examples.py
 """
 
 # 1) zip()
